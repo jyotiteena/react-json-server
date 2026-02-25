@@ -1,0 +1,48 @@
+{
+  "products": [
+    {
+      "id": "08ff",
+      "p_category": "Electronics",
+      "p_name": "car",
+      "p_price": "10000",
+      "p_desc": "final"
+    },
+    {
+      "id": "447b",
+      "p_category": "Cloths",
+      "p_name": "tshirt",
+      "p_price": "1000",
+      "p_desc": "final"
+    },
+    {
+      "id": "032e",
+      "p_category": "Other",
+      "p_name": "dfdsf",
+      "p_price": "34343",
+      "p_desc": "final"
+    }
+  ],
+  "users": [
+    {
+      "id": "0e87",
+      "p_category": "Electronics",
+      "p_name": "car",
+      "p_price": "3434",
+      "p_desc": "car details"
+    },
+    {
+      "id": "7732",
+      "p_category": "Electronics",
+      "p_name": "car",
+      "p_price": "3434",
+      "p_desc": "car details"
+    },
+    {
+      "id": "f3d9",
+      "p_category": "Wooden",
+      "p_name": "toy",
+      "p_price": "34300",
+      "p_desc": "sdfdsf"
+    }
+  ]
+}
